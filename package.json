@@ -9,7 +9,7 @@
     "css-loader": "^3.4.0",
     "moment": "^2.24.0",
     "moment-locales-webpack-plugin": "^1.1.2",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "react": "^16.12.0",
     "react-calendar": "^2.19.2",
     "react-datetime-picker": "^2.9.0",
